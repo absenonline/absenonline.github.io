@@ -4,7 +4,7 @@ My plan in making this application is to make it easier for user to fill in atte
 ## Logo for apps
 [<img alt="Logo Absen Online Round!" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/ic_launcher.png" />](https://absenonline.github.io) [<img alt="Logo Absen Online Circle!" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/ic_launcher_round.png" />](https://absenonline.github.io) [<img alt="Logo Absen Online!" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/ic_launcher_absen.png" />](https://absenonline.github.io)
 
-## ScreenShoot
+## Screen Shoot
 [<img alt="Absen Online Splash" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/001_Splash.jpg" />](https://absenonline.github.io)
 [<img alt="Absen Online Dashboard (Admin)" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/002_Dashboard.jpg" />](https://absenonline.github.io)
 [<img alt="Absen Online Update (Admin)" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/003_Update.jpg" />](https://absenonline.github.io)
@@ -22,6 +22,13 @@ My plan in making this application is to make it easier for user to fill in atte
 [<img alt="Absen Online Help" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/015_Help.jpg" />](https://absenonline.github.io)
 [<img alt="Absen Online About" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/016_About.jpg" />](https://absenonline.github.io)
 [<img alt="Absen Online Privacy Policy" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/017_Privacy.jpg" />](https://absenonline.github.io)
+
+# META BUILD APPS
+> Maps API including for feature maps like a geolocation, implemented on android studio.
+
+> Firebase including for saving, show database like a user auth login user make Task Sign, implemented on android studio.
+
+> Android Studio as display and logic creation software for the Absen Online application.
 
 ## Developer
 [<img alt="CusMeDroid" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/dev_img.png" />](https://cusmedroid.github.io)
