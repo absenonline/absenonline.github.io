@@ -35,6 +35,17 @@ My plan in making this application is to make it easier for user to fill in atte
 
 > Users can only fill "Sign" once.
 
+> Sending notifiaction for admin.
+
+## Admin
+> Apart from getting notifications from users, admins can set features for users like :
+
+- Name, About.
+- Lat, Long set location.
+- Start, End Time.
+- Radius.
+- Open or close.
+
 ## Developer
 [<img alt="CusMeDroid" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/dev_img.png" />](https://cusmedroid.ink)
 
@@ -55,6 +66,6 @@ Meet in person or via online :
 [<img alt="WhatsApp" width="250px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/contactus.png" />](https://api.whatsapp.com/send?phone=6281932671715)
 
 # Support me
->I like to make something that can inspire you, maybe it's an advantage that God gave, but besides that I also need food to continue my life, I'm very grateful for all the blessings that God has given, and thank for those of you who have helped me.
+> I like to make something that can inspire you, maybe it's an advantage that God gave, but besides that I also need food to continue my life, I'm very grateful for all the blessings that God has given, and thank for those of you who have helped me.
 
 [<img alt="Donate Free!" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/donate.png" />](https://paypal.me/iyortml) [<img alt="Donate Free!" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/donate_bca.png" />](https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/mybca.png)
