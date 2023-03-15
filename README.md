@@ -36,7 +36,10 @@ My plan in making this application is to make it easier for user to fill in atte
 > Users can only fill "Sign" once.
 
 ## Developer
-[<img alt="CusMeDroid" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/dev_img.png" />](https://cusmedroid.github.io)
+[<img alt="CusMeDroid" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/dev_img.png" />](https://cusmedroid.ink)
+
+# Tools
+[<img alt="Android Studio" width="120px" src="https://cdn.neowin.com/news/images/uploaded/2020/02/1582627771_androidstudio_story.jpg" />](https://developer.android.com/studio) [<img alt="Firebase" width="120px" src="https://arthanugrahacom.b-cdn.net/wp-content/uploads/2019/07/firebase.jpg" />](https://firebase.google.com) [<img alt="Maps" width="120px" src="https://developers.google.com/static/maps/images/google-maps-platform-1200x675.png" />](https://developers.google.com/maps/get-started)
 
 # Support me
 >I like to make something that can inspire you, maybe it's an advantage that God gave, but besides that I also need food to continue my life, I'm very grateful for all the blessings that God has given, and thank you for those of you who have helped me.
