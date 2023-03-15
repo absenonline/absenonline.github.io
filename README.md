@@ -44,12 +44,12 @@ My plan in making this application is to make it easier for user to fill in atte
 # Language
 [<img alt="XML" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/xml.png" />](https://developer.android.com/studio) [<img alt="JAVA" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/java.png" />](https://developer.android.com/studio)
 
-## Tutorial
+# Tutorial
 Stay with me for learn :
 - Code (Coming Soon)
 - Video (Coming Soon)
 
-# Private Tutoring :
+## Private Tutoring :
 Meet in person or via online :
 
 [<img alt="WhatsApp" width="250px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/contactus.png" />](https://api.whatsapp.com/send?phone=6281932671715)
