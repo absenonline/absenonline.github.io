@@ -41,6 +41,9 @@ My plan in making this application is to make it easier for user to fill in atte
 # Tools
 [<img alt="Android Studio" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/AndroidStudio.jpg" />](https://developer.android.com/studio) [<img alt="Firebase" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/Firebase.jpg" />](https://firebase.google.com) [<img alt="Maps" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/Maps.jpg" />](https://developers.google.com/maps/get-started)
 
+# Language
+[<img alt="XML" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/xml.png" />](https://developer.android.com/studio) [<img alt="JAVA" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/java.png" />](https://developer.android.com/studio)
+
 # Support me
 >I like to make something that can inspire you, maybe it's an advantage that God gave, but besides that I also need food to continue my life, I'm very grateful for all the blessings that God has given, and thank you for those of you who have helped me.
 
