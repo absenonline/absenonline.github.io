@@ -53,7 +53,7 @@ My plan in making this application is to make it easier for user to fill in atte
 [<img alt="Android Studio" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/AndroidStudio.jpg" />](https://developer.android.com/studio) [<img alt="Firebase" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/Firebase.jpg" />](https://firebase.google.com) [<img alt="Maps" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/Maps.jpg" />](https://developers.google.com/maps/get-started)
 
 # Language
-[<img alt="XML" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/xml.png" />](https://developer.android.com/studio) [<img alt="JAVA" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/java.png" />](https://developer.android.com/studio)
+[<img alt="XML" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/xml.png" />](https://www.w3schools.com/xml/default.asp) [<img alt="JAVA" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/java.png" />](https://www.java.com/en/)
 
 # Tutorial
 Stay with me for learn :
