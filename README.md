@@ -19,8 +19,7 @@ My plan in making this application is to make it easier for user to fill in atte
 [<img alt="Absen Online Sign Dialog (User)" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/012_SignDialog.jpg" />](https://absenonline.github.io)
 [<img alt="Absen Online Maps" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/013_Maps.jpg" />](https://absenonline.github.io)
 [<img alt="Absen Online All User" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/014_AllUser.jpg" />](https://absenonline.github.io)
-[<img alt="Absen Online Help" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/001_Splash.jpg" />](https://absenonline.github.io)
-[<img alt="Absen Online Splash" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/015_Help.jpg" />](https://absenonline.github.io)
+[<img alt="Absen Online Help" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/015_Help.jpg" />](https://absenonline.github.io)
 [<img alt="Absen Online About" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/016_About.jpg" />](https://absenonline.github.io)
 [<img alt="Absen Online Privacy Policy" width="96px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/screenshoot/017_Privacy.jpg" />](https://absenonline.github.io)
 
