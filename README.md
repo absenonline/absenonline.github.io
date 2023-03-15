@@ -30,6 +30,11 @@ My plan in making this application is to make it easier for user to fill in atte
 
 > Android Studio as display and logic creation software for the Absen Online application.
 
+## Sign user attended
+> The user must be within the specified radius and fill/click the "Sign" button at the specified time.
+
+> Users can only fill "Sign" once.
+
 ## Developer
 [<img alt="CusMeDroid" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/dev_img.png" />](https://cusmedroid.github.io)
 
