@@ -45,6 +45,6 @@ My plan in making this application is to make it easier for user to fill in atte
 [<img alt="XML" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/xml.png" />](https://developer.android.com/studio) [<img alt="JAVA" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/java.png" />](https://developer.android.com/studio)
 
 # Support me
->I like to make something that can inspire you, maybe it's an advantage that God gave, but besides that I also need food to continue my life, I'm very grateful for all the blessings that God has given, and thank you for those of you who have helped me.
+>I like to make something that can inspire you, maybe it's an advantage that God gave, but besides that I also need food to continue my life, I'm very grateful for all the blessings that God has given, and thank for those of you who have helped me.
 
 [<img alt="Donate Free!" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/donate.png" />](https://paypal.me/iyortml) [<img alt="Donate Free!" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/donate_bca.png" />](https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/mybca.png)
