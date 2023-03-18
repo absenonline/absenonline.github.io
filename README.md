@@ -50,7 +50,7 @@ My plan in making this application is to make it easier for user to fill in atte
 [<img alt="CusMeDroid" width="72px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/dev_img.png" />](https://cusmedroid.ink)
 
 # Tools
-[<img alt="Android Studio" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/AndroidStudio.jpg" />](https://developer.android.com/studio) [<img alt="Firebase" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/Firebase.jpg" />](https://firebase.google.com) [<img alt="Maps" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/Maps.jpg" />](https://developers.google.com/maps/get-started)
+[<img alt="Android Studio" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/AndroidStudio.jpg" />](https://github.com/absenonline/android-studio/blob/main/README.md) [<img alt="Firebase" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/Firebase.jpg" />](https://firebase.google.com) [<img alt="Maps" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/tools/Maps.jpg" />](https://github.com/absenonline/maps-console/blob/main/README.md)
 
 # Language
 [<img alt="XML" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/xml.png" />](https://www.w3schools.com/xml/default.asp) [<img alt="JAVA" width="120px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/language/java.png" />](https://www.java.com/en/)
