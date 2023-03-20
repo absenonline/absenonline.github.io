@@ -66,7 +66,7 @@ Meet in person or via online :
 [<img alt="WhatsApp" width="250px" src="https://raw.githubusercontent.com/absenonline/absenonline.github.io/main/assets/contactus.png" />](https://api.whatsapp.com/send?phone=6281932671715)
 
 # Follow My Medsos :
-[<img alt="Instagram Absen Online" width="64px" src="https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png" />](https://www.instagram.com/absenonlineapp/) [<img alt="Facebook Absen Online" width="64px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeGUeVNx0iVEJCtvtI_yROynaBWfmC2eGbdoFZ-YLZ4Zt40Y65JsR-yd4Tr11UtTCLSlbK-GMDspwgzVg_hpxZoZ" />](https://web.facebook.com/absenonlineapp/)
+[<img alt="Instagram Absen Online" title="Instagram Absen Online" width="64px" src="https://static.cdninstagram.com/rsrc.php/v3/yR/r/lam-fZmwmvn.png" />](https://www.instagram.com/absenonlineapp/) [<img alt="Facebook Absen Online" title="Facebook Absen Online" width="64px" src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico?_nc_eui2=AeGUeVNx0iVEJCtvtI_yROynaBWfmC2eGbdoFZ-YLZ4Zt40Y65JsR-yd4Tr11UtTCLSlbK-GMDspwgzVg_hpxZoZ" />](https://web.facebook.com/absenonlineapp/)
 
 # Support me
 > I like to make something that can inspire you, maybe it's an advantage that God gave, but besides that i also need food to continue my life, i'm very grateful for all the blessings that God has given, and thank for those of you who have helped me.
