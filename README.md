@@ -57,8 +57,8 @@ My plan in making this application is to make it easier for user to fill in atte
 
 # Tutorial
 Stay with me for learn :
-- Code (Coming Soon)
-- Video (Coming Soon)
+- Code (Coming Soon!)
+- Video (Coming Soon!)
 
 ## Private Tutoring :
 Meet in person or via online :
